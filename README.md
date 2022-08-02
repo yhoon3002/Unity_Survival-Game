@@ -17,4 +17,5 @@ Unity는 Unity Technologies에서 개발한 크로스 플랫폼 게임 엔진이
 
 
 ### 01_기본 캐릭터 움직이기
-![Alt Text](https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif)
+![기본캐릭터움직이기](https://user-images.githubusercontent.com/26592317/182394797-87dc3b2a-71f4-4157-a0f7-b4c5f4325bb6.gif)
+
