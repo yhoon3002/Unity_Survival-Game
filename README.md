@@ -12,3 +12,4 @@ This repository is for what I'll study about Unity.
 ![기본캐릭터움직이기](https://user-images.githubusercontent.com/26592317/182394797-87dc3b2a-71f4-4157-a0f7-b4c5f4325bb6.gif)
 <br/>
 + 방향키 or wasd로 캐릭터 움직이기 & 마우스로 캐릭터의 시선 방향 변경
++ [블로그](https://hoonni3002.tistory.com/127)
